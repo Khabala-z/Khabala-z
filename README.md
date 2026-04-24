@@ -26,11 +26,7 @@ Soy un **Desarrollador Full Stack** apasionado por crear soluciones eficientes y
 ![Unity Hub](https://img.shields.io/badge/Unity_Hub-000000?style=flat-square)
 ![Git](https://img.shields.io/badge/Git-F05033?style=flat-square)
 
----
 
-### 🔗 Contacto & Portafolio
-*   **LinkedIn**:  [Gael Perez](https://www.linkedin.com/in/gael-perez-752067337)
-*   **Portafolio**: [khabala-z.github.io/Portafolio](https://khabala-z.github.io/Portafolio)
 
 ---
 <p align="center">
