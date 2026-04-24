@@ -1,29 +1,30 @@
-# <p align="center"><img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=150&section=header&text=Khabala-z&fontSize=70" /></p>
+# <p align="center"><img src="https://capsule-render.vercel.app/render?type=waving&color=0078d4&height=200&section=header&text=¡Hola!%20Soy%20Khabala-z&fontSize=50&animation=fadeIn" /></p>
 
-¡Hola! Soy **Khabala-z**, un desarrollador enfocado en crear soluciones de backend sólidas y explorar nuevas tecnologías.
+Soy un **Desarrollador Full Stack** apasionado por crear soluciones eficientes y escalables. Mi enfoque principal es el desarrollo Backend, pero también disfruto explorando el mundo del Frontend y el desarrollo de videojuegos.
 
 ---
 
 ### 🛠️ Mi Stack Tecnológico
 
 **Backend & Bases de Datos**
-*   **PHP**
-*   **Python**
-*   **Java**
-*   **Spring Boot**
-*   **Node.js**
-*   **SQL**
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square)
 
 **Frontend**
-*   **React**
-*   **JavaScript**
-*   **HTML5 / CSS3**
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square)
 
 **Nube & Herramientas**
-*   **AWS**
-*   **Docker**
-*   **Unity Hub**
-*   **Git**
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square)
+![Unity Hub](https://img.shields.io/badge/Unity_Hub-000000?style=flat-square)
+![Git](https://img.shields.io/badge/Git-F05033?style=flat-square)
 
 ---
 
