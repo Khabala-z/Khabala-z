@@ -1,10 +1,10 @@
-# 🚀 ¡Hola! Soy Khabala
+#   ¡Hola! Soy Khabala
 
 Soy un **Desarrollador Full Stack** apasionado por crear soluciones eficientes y escalables. Mi enfoque principal es el desarrollo Backend, pero también disfruto explorando el mundo del Frontend y el desarrollo de videojuegos.
 
 ---
 
-### 🛠️ Mi Stack Tecnológico
+###   Mi Stack Tecnológico
 
 **Backend & Bases de Datos**
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square)
