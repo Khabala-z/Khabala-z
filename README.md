@@ -1,4 +1,4 @@
-# <p align="center"><img src="https://capsule-render.vercel.app/render?type=waving&color=0078d4&height=200&section=header&text=¡Hola!%20Soy%20Khabala-z&fontSize=50&animation=fadeIn" /></p>
+# 🚀 ¡Hola! Soy Khabala-z
 
 Soy un **Desarrollador Full Stack** apasionado por crear soluciones eficientes y escalables. Mi enfoque principal es el desarrollo Backend, pero también disfruto explorando el mundo del Frontend y el desarrollo de videojuegos.
 
@@ -15,8 +15,8 @@ Soy un **Desarrollador Full Stack** apasionado por crear soluciones eficientes y
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square)
 
 **Frontend**
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square)
 
@@ -28,16 +28,9 @@ Soy un **Desarrollador Full Stack** apasionado por crear soluciones eficientes y
 
 ---
 
-### 📈 Estadísticas de GitHub
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Khabala-z&show_icons=true&theme=tokyonight" alt="Khabala-z GitHub Stats" />
-</p>
-
----
-
-### 📫 Contacto
-*   **LinkedIn**: [Tu enlace aquí]
-*   **Email**: [Tu email aquí]
+### 🔗 Contacto & Portafolio
+*   **LinkedIn**: [Oscar Gael Perez Verdin](https://www.linkedin.com/in/oscar-gael-perez-verdin-752067337)
+*   **Portafolio**: [khabala-z.github.io/Portafolio](https://khabala-z.github.io/Portafolio)
 
 ---
 <p align="center">
