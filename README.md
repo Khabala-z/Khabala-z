@@ -1,4 +1,4 @@
-# 🚀 ¡Hola! Soy Khabala-z
+# 🚀 ¡Hola! Soy Khabala
 
 Soy un **Desarrollador Full Stack** apasionado por crear soluciones eficientes y escalables. Mi enfoque principal es el desarrollo Backend, pero también disfruto explorando el mundo del Frontend y el desarrollo de videojuegos.
 
@@ -29,7 +29,7 @@ Soy un **Desarrollador Full Stack** apasionado por crear soluciones eficientes y
 ---
 
 ### 🔗 Contacto & Portafolio
-*   **LinkedIn**: [Oscar Gael Perez Verdin](https://www.linkedin.com/in/oscar-gael-perez-verdin-752067337)
+*   **LinkedIn**:  [Gael Perez](https://www.linkedin.com/in/gael-perez-752067337)
 *   **Portafolio**: [khabala-z.github.io/Portafolio](https://khabala-z.github.io/Portafolio)
 
 ---
